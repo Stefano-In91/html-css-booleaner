@@ -2,7 +2,7 @@ body {
     margin: auto 10%;
     padding: auto;
 }
-
+/* header */
 h1 {
     margin: 5px auto 5px;
 }
@@ -14,7 +14,7 @@ span {
 small {
     font-size: 10px;
 }
-/* header */
+
 .barra-logo {
     height: 75px;
     background-color: #4EA0FF;
@@ -30,6 +30,7 @@ small {
 
 p.grey {
     margin: 2px;
+    font-size: 20px;
 }
 
 .grey {
@@ -62,3 +63,22 @@ tr:nth-child(2){
     background-color: white;
 }
 /* /tabella */
+/* footer */
+h2 {
+    font-size: 14px;
+}
+footer>div {
+    width: 201;
+    height: 132px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+}
+
+#monitor {
+    background-image: url("../imgs/monitor.jpg");
+}
+
+#graph {
+    background-image: url("../imgs/graph.jpg");
+}

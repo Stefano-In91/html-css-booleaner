@@ -5,6 +5,7 @@ body {
 /* header */
 h1 {
     margin: 5px auto 5px;
+    text-decoration: ;
 }
 
 span {
@@ -48,17 +49,17 @@ table{
     background-color: lightblue;
     border-collapse: collapse;
 }
+
 thead{
     background-color: #20A9E5;
     font-size: 14px;
     color: white;
 }
-th{
-    padding: 0;
-}
+
 th:last-child, td:last-child {
     width: 60%;
 }
+
 tr:nth-child(2){
     background-color: white;
 }
@@ -67,6 +68,7 @@ tr:nth-child(2){
 h2 {
     font-size: 14px;
 }
+
 footer>div {
     width: 201;
     height: 132px;

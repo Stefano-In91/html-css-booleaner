@@ -1,4 +1,33 @@
-nav {
-    height: 100px;
-    background-color: aqua;
+body {
+    margin: auto 10%;
+    padding: auto;
+}
+
+h1 {
+    margin: 5px;
+}
+
+.barra-logo {
+    height: 75px;
+    background-color: #4EA0FF;
+    background-image: url("../imgs/pattern.png");
+    background-size: 315px auto;
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+    margin: 30px 5px;
+}
+
+p.grey {
+    margin: 2px;
+}
+
+.grey {
+    color: #808080;
+}
+
+.blue {
+    color: #20A9E5;
 }

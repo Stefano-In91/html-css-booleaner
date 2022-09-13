@@ -15,7 +15,7 @@ small {
     font-size: 10px;
 }
 
-nav {
+header>div {
     background-color: #4EA0FF;
     background-image: url("../imgs/pattern.png");
     background-size: 315px auto;

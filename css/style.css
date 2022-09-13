@@ -1,12 +1,11 @@
 body {
-    margin: auto 10%;
-    padding: auto;
+    margin: auto 2%;
 }
 /* header */
 header>div {
     background-color: #4EA0FF;
     background-image: url("../imgs/pattern.png");
-    background-size: 315px auto;
+    background-size: 315px;
 }
 
 .logo {

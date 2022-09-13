@@ -16,7 +16,6 @@ small {
 }
 
 nav {
-    height: 75px;
     background-color: #4EA0FF;
     background-image: url("../imgs/pattern.png");
     background-size: 315px auto;
@@ -24,8 +23,7 @@ nav {
 
 .logo {
     width: 150px;
-    height: auto;
-    margin: 30px 5px;
+    margin: 30px 5px 0px;
 }
 
 p.grey {
